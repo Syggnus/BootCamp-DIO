@@ -1,0 +1,13 @@
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\obj\Debug\netcoreapp3.1\GitHub.csprojAssemblyReference.cache
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\obj\Debug\netcoreapp3.1\GitHub.AssemblyInfoInputs.cache
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\obj\Debug\netcoreapp3.1\GitHub.AssemblyInfo.cs
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\obj\Debug\netcoreapp3.1\GitHub.csproj.CoreCompileInputs.cache
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\bin\Debug\netcoreapp3.1\GitHub.exe
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\bin\Debug\netcoreapp3.1\GitHub.deps.json
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\bin\Debug\netcoreapp3.1\GitHub.runtimeconfig.json
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\bin\Debug\netcoreapp3.1\GitHub.runtimeconfig.dev.json
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\bin\Debug\netcoreapp3.1\GitHub.dll
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\bin\Debug\netcoreapp3.1\GitHub.pdb
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\obj\Debug\netcoreapp3.1\GitHub.dll
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\obj\Debug\netcoreapp3.1\GitHub.pdb
+C:\Users\chuan\OneDrive\Documents\GitHub\AbstraçãoRPG\obj\Debug\netcoreapp3.1\GitHub.genruntimeconfig.cache
